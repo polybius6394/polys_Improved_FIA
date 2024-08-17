@@ -6,20 +6,13 @@ There are two versions here, summer and autumn, that you should choose between. 
 
 The main changes are;
 
-
-Arsenal overhauled with new equipment selection & some civilian clothing.
-
-Sa vz. 58 replaced with M14 (M21 SWS) or AK-74, depending on the role.
-
-UK vz. 59 replaced with PKM.
-
-ALICE or Lifchik webbing added to all units, depending on their weapon.
-
-Squad Leaders equipped with GP-25 grenade launchers, due to the lack of a proper grenadier role.
-
-Removal of radios for some units.
-
-Removal of flak jackets for all units.
+- Arsenal overhauled with new equipment selection & some civilian clothing.
+- Sa vz. 58 replaced with M14 (M21 SWS) or AK-74, depending on the role.
+- UK vz. 59 replaced with PKM.
+- ALICE or Lifchik webbing added to all units, depending on their weapon.
+- Squad Leaders equipped with GP-25 grenade launchers, due to the lack of a proper grenadier role.
+- Removal of radios for some units.
+- Removal of flak jackets for all units.
 
 
 
