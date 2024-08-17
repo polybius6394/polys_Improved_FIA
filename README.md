@@ -13,7 +13,9 @@ The main changes are;
 - Removal of flak jackets for all units.
 
 Anyhow, I made this as an excuse to screw around with the Enfusion tools, so it's nothing crazy.
+
 That being said, I'll try to keep this updated as more content is added to the game.
+
 
 Licensed under APL-SA.
 
