@@ -3,8 +3,11 @@ An Arma Reforger mod that improves the FIA with some new equipment.
 
 There are two versions here, summer and autumn, that you should choose between. These cannot be run at the same time, since this is a replacement instead of an addition.
 
-Summer: https://reforger.armaplatform.com/workshop/6220953A5B89C919-polys_Improved_FIA_Summer
-Autumn: https://reforger.armaplatform.com/workshop/6220988449C829B6-polys_Improved_FIA_Autumn
+Summer version: https://reforger.armaplatform.com/workshop/6220953A5B89C919-polys_Improved_FIA_Summer
+
+Autumn version: https://reforger.armaplatform.com/workshop/6220988449C829B6-polys_Improved_FIA_Autumn
+
+For the most part, they're the same, but there are some uniform and headgear changes depending on which you choose. Summer has lighter uniforms and headgear, while autumn's is heavier.
 
 The main changes are;
 - Arsenal overhauled with new equipment selection & some civilian clothing.
