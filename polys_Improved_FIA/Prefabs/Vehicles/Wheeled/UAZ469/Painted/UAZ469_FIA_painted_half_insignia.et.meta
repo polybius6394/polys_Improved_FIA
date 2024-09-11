@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{3D438D9F4ADB5BB5}Prefabs/Vehicles/Wheeled/UAZ469/Painted/UAZ469_FIA_painted_half_insignia.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,42 @@
+Vehicle : "{26AF1879FBDA37EB}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_base.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  MeshObject "{51DAA09FEFBFC0E7}" {
+   Materials {
+    MaterialAssignClass "{6256FAA6DD368A12}" {
+     SourceMaterial "UAZ469_Body"
+     AssignedMaterial "{D1F1DD9AE3DC919D}Assets/Vehicles/Wheeled/UAZ469/Data/UAZ469_Body_CIV_BLUE.emat"
+    }
+   }
+  }
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    Name "#AR-Vehicle_UAZ469_Open_Variant2_Name"
+    m_Image "{981932981908345F}UI/Textures/EditorPreviews/Vehicles/Wheeled/UAZ469/UAZ469_uncovered_CIV_blue.edds"
+    m_sFaction "FIA"
+    m_EntityBudgetCost {
+     SCR_EntityBudgetValue "{5EDC86E4AF8908B6}" {
+      m_Value 125
+     }
+    }
+   }
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo Door_L01 {
+     Prefab "{CA222C1C3547E812}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/Blue/UAZ469_door_L01_bottom_blue.et"
+    }
+    RegisteringComponentSlotInfo Door_R01 {
+     Prefab "{F625EE0B4E447B84}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/Blue/UAZ469_door_R01_bottom_blue.et"
+    }
+    RegisteringComponentSlotInfo Door_L02 {
+     Prefab "{4E4E2ED658426116}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/Blue/UAZ469_door_L02_bottom_blue.et"
+    }
+    RegisteringComponentSlotInfo Door_R02 {
+     Prefab "{7249ECC12341F280}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/Blue/UAZ469_door_R02_bottom_blue.et"
+    }
+   }
+  }
+ }
+ coords 1178.161 50.962 1311.549
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7B2A168891A4C5D5}Prefabs/Vehicles/Wheeled/UAZ469/Painted/UAZ469_FIA_uncovered_painted.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

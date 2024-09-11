@@ -1,0 +1,55 @@
+Vehicle : "{16A674FE31B0921C}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_uncovered.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  MeshObject "{51DAA09FEFBFC0E7}" {
+   Materials {
+    MaterialAssignClass "{6256FAA325FD2B9A}" {
+     SourceMaterial "UAZ469_Body"
+     AssignedMaterial "{88BE117516A8E00E}Assets/Vehicles/Wheeled/UAZ469/Data/UAZ469_Body_FIA.emat"
+    }
+    MaterialAssignClass "{6256FAA325FD2B74}" {
+     SourceMaterial "UAZ469_Details"
+     AssignedMaterial "{67BEA12C8AFDB65C}Assets/Vehicles/Wheeled/UAZ469/Data/UAZ469_Details_FIA.emat"
+    }
+   }
+  }
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    m_Image "{7723E3B73D0DD9C6}UI/Textures/EditorPreviews/Vehicles/Wheeled/UAZ469/UAZ469_FIA_uncovered.edds"
+    m_sFaction "FIA"
+    m_aAutoLabels {
+     12 122 50
+    }
+   }
+  }
+  SCR_VehicleFactionAffiliationComponent "{5882CBD9AC741CEC}" {
+   "faction affiliation" "FIA"
+  }
+  SCR_WheeledDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 7110.71
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo Door_L01 {
+     Prefab "{A8142EB263DA25B6}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/FIA/UAZ469_FIA_door_L01_bottom.et"
+    }
+    RegisteringComponentSlotInfo Door_R01 {
+     Prefab "{71EFB9DFA0039561}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/FIA/UAZ469_FIA_door_R01_bottom.et"
+    }
+    RegisteringComponentSlotInfo Door_L02 {
+     Prefab "{5A64ADD6A1BDE05E}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/FIA/UAZ469_FIA_door_L02_bottom.et"
+    }
+    RegisteringComponentSlotInfo Door_R02 {
+     Prefab "{5BCB9E7C56EDF34E}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/FIA/UAZ469_FIA_door_R02_bottom.et"
+    }
+    RegisteringComponentSlotInfo SeatsRear {
+     Prefab "{0C33B37571607A44}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Seats/UAZ469_seats_rear_FIA.et"
+    }
+    RegisteringComponentSlotInfo FIA_CoatOArms_decal {
+     Prefab "{7851C866210A685F}Prefabs/Vehicles/Wheeled/UAZ469/VehParts/Doors/FIA/UAZ469_FIA_CoatOfArms_decal.et"
+     InheritParentSkeleton 1
+    }
+   }
+  }
+ }
+}

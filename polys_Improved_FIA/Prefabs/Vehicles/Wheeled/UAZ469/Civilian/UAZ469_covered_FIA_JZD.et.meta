@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{829D9C954F9C3159}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_covered_FIA_JZD.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

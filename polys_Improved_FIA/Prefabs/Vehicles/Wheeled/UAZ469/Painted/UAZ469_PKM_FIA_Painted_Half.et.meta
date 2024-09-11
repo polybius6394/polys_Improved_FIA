@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{6384F957B81ACF4E}Prefabs/Vehicles/Wheeled/UAZ469/UAZ469_PKM_FIA_Painted_Half.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
