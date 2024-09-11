@@ -1,8 +1,0 @@
-GameProject {
- ID "polysImprovedFIASummer"
- GUID "6220953A5B89C919"
- TITLE "polys_Improved_FIA_Summer"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
