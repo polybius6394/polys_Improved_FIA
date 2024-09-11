@@ -1,0 +1,75 @@
+SCR_ChimeraCharacter : "{B7FAEA8321C5CB33}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Base_FIA_Uniformed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Guerilla (R-107M)"
+    Icon "{B9F0BD39FF1881A3}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_RadioOperator.edds"
+    m_Image "{FE0353DD2F458856}UI/Textures/EditorPreviews/Characters/INDFOR/FIA/Character_FIA_RTO.edds"
+    m_aAutoLabels {
+     122 45
+    }
+   }
+   m_VariantData SCR_EditableEntityVariantData "{6254F509CCA66A3B}" {
+    m_bRandomizeDefaultVariant 1
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E0636254402}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E0636254419}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E063625441A}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E0636254414}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E0636254416}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E0636254413}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E0636254412}" {
+      m_bEnabled 0
+     }
+    }
+   }
+  }
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{66196D85AB93D2BE}Prefabs/Characters/HeadGear/Helmet_SSh68_01/Helmet_SSh68_01_camo.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{5E17C1AE66A6FF00}Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
+    }
+    LoadoutSlotInfo Back {
+     Prefab "{4181B1C8B5E56392}Prefabs/Items/Equipment/Radios/Radio_R107M_FIA.et"
+    }
+    LoadoutSlotInfo Vest {
+     Prefab "{08155E701A949620}Prefabs/Characters/Vests/Vest_SovietHarness/Variants/Vest_SovietHarness_rifleman.et"
+    }
+    LoadoutSlotInfo HandWear {
+    }
+   }
+  }
+  SCR_InventoryStorageManagerComponent "{520EA1D2DB118DE5}" {
+   InitialInventoryItems {
+    ItemsInitConfigurationItem "{5D7CC173FAA7C00C}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
+     PrefabsToSpawn {
+      "{70BC751317551D9B}Prefabs/Items/Equipment/Canteens/Canteen_Soviet_01.et"
+     }
+    }
+    ItemsInitConfigurationItem "{557090130BCD36B7}" {
+     TargetStorage "Prefabs/Items/Equipment/Accessories/Pouch_Soviet_30rnd_AK74/Pouch_Soviet_30rnd_AK74.et"
+    }
+    ItemsInitConfigurationItem "{6064820F8177C8C0}" {
+     TargetStorage "Prefabs/Characters/Uniforms/Pants_KZS/Pants_KZS.et"
+    }
+   }
+  }
+ }
+}

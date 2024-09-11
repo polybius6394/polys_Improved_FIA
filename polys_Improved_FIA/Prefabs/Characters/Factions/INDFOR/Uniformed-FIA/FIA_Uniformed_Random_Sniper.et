@@ -1,0 +1,29 @@
+SCR_ChimeraCharacter : "{B7FAEA8321C5CB33}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Base_FIA_Uniformed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Randomized (Sniper)"
+    Icon "{0A78405E73C36477}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Character_Sharpshooter.edds"
+    m_aAuthoredLabels + {
+     290
+    }
+   }
+   m_VariantData SCR_EditableEntityVariantData "{62535E068F3A32F7}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E068F3A3288}" {
+      m_sVariantPrefab "{E2B95A992F977DD1}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_M21.et"
+     }
+     SCR_EditableEntityVariant "{62535E068F3A3285}" {
+      m_sVariantPrefab "{4206CE286F2A75BC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E068F3A3284}" {
+      m_sVariantPrefab "{3325BAE847C2D466}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr_308.et"
+     }
+    }
+   }
+  }
+ }
+}

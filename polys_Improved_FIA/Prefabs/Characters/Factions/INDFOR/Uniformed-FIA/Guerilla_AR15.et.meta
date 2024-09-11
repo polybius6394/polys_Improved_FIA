@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{0C986634F000F4AC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_XM15E2S_Target.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{7188A43E30951DAF}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AK74_GP25.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4206CE286F2A75BC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

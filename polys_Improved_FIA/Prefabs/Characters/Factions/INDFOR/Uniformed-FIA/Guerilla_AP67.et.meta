@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{207E7C7EF0F79057}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AP67.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

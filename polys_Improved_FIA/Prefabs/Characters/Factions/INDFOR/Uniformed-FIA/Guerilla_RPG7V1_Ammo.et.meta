@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{298E4B05E6EA6FDE}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_RPG7V1_Ammo.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

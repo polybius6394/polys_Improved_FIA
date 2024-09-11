@@ -1,0 +1,29 @@
+SCR_ChimeraCharacter : "{B7FAEA8321C5CB33}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Base_FIA_Uniformed.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_UIInfo SCR_EditableEntityUIInfo "{5298E609432D192D}" {
+    Name "Randomized (Leader)"
+    Icon "{C431FD61793AA13F}UI/Textures/Editor/EditableEntities/Characters/EditableEntity_Random.edds"
+    m_aAuthoredLabels + {
+     290
+    }
+   }
+   m_VariantData SCR_EditableEntityVariantData "{62535E06C51326D6}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E06C5132680}" {
+      m_sVariantPrefab "{882498E3F16EC1AB}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_AK74.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E06C5132682}" {
+      m_sVariantPrefab "{2D519F84385B4C17}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_M14.et"
+     }
+     SCR_EditableEntityVariant "{625431D6D53BD521}" {
+      m_sVariantPrefab "{5BBC1C18AB931AF6}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_AK74_GP25.et"
+     }
+    }
+   }
+  }
+ }
+}
