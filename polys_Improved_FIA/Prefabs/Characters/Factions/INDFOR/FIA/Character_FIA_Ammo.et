@@ -1,0 +1,14 @@
+SCR_ChimeraCharacter : "{75FC25863194612A}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_AMG.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F508B6F0674A}" {
+    m_aVariants {
+     SCR_EditableEntityVariant "{6254F50957CB8B17}" {
+      m_sVariantPrefab "{298E4B05E6EA6FDE}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_RPG7V1_Ammo.et"
+     }
+    }
+   }
+  }
+ }
+}

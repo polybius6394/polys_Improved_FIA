@@ -1,0 +1,22 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F509A639B1D6}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E068F3A3288}" {
+      m_sVariantPrefab "{E2B95A992F977DD1}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_M21.et"
+     }
+     SCR_EditableEntityVariant "{62535E068F3A3285}" {
+      m_sVariantPrefab "{4206CE286F2A75BC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E068F3A3284}" {
+      m_sVariantPrefab "{3325BAE847C2D466}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr_308.et"
+     }
+    }
+   }
+  }
+ }
+}

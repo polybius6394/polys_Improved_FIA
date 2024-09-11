@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F509F6B859B0}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{6254F509F7CEF0A3}" {
+      m_sVariantPrefab "{7844C62EAF09D507}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_R107M.et"
+     }
+    }
+   }
+  }
+ }
+}

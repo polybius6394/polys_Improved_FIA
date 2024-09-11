@@ -1,0 +1,18 @@
+SCR_ChimeraCharacter : "{84B40583F4D1B7A3}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F509CCA66A3B}" {
+    m_aVariants {
+     SCR_EditableEntityVariant "{6254F509967B31F0}" {
+      m_sVariantPrefab "{77701C5FB4DC9067}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sapper_TM62M.et"
+     }
+     SCR_EditableEntityVariant "{6254F5098CD7F3F6}" {
+      m_sVariantPrefab "{52150A8A75A23A79}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sapper_TSh400g.et"
+      m_iRandomizerWeight 2
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,39 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F509CCA66A3B}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E0636254402}" {
+      m_sVariantPrefab "{2A7CC7EF7F219539}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AK74.et"
+      m_iRandomizerWeight 3
+     }
+     SCR_EditableEntityVariant "{62535E0636254419}" {
+      m_sVariantPrefab "{7188A43E30951DAF}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AK74_GP25.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E063625441A}" {
+      m_sVariantPrefab "{207E7C7EF0F79057}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AP67.et"
+     }
+     SCR_EditableEntityVariant "{62535E0636254414}" {
+      m_sVariantPrefab "{0C986634F000F4AC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AR15.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E0636254416}" {
+      m_sVariantPrefab "{25DFCAE053F50F6D}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_EVR76.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E0636254413}" {
+      m_sVariantPrefab "{04D23F40DA962A51}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_M14.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E0636254412}" {
+      m_sVariantPrefab "{A47D13DAB32D73E6}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_M1A.et"
+      m_iRandomizerWeight 3
+     }
+    }
+   }
+  }
+ }
+}

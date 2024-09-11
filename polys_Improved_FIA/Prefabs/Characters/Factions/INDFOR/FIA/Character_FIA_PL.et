@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F5092BB5164C}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{6254F509247776D8}" {
+      m_sVariantPrefab "{BC32D1743CC39D8E}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Officer_AKS74U.et"
+     }
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,15 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F5091E9D0133}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{6254F5091F7F6E2D}" {
+      m_sVariantPrefab "{62222021E3E57BB9}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Medic_AK74.et"
+     }
+    }
+   }
+  }
+ }
+}

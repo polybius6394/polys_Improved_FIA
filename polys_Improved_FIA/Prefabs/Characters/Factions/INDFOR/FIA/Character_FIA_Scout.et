@@ -1,0 +1,22 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F509B4688387}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E06E8B256D1}" {
+      m_sVariantPrefab "{01B845C156043E39}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_AK74.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E06E8B256D0}" {
+      m_sVariantPrefab "{124155B36AA089CB}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_AR15.et"
+     }
+     SCR_EditableEntityVariant "{62535E06E8B256A5}" {
+      m_sVariantPrefab "{A8B096B522C1148E}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_M1A.et"
+     }
+    }
+   }
+  }
+ }
+}

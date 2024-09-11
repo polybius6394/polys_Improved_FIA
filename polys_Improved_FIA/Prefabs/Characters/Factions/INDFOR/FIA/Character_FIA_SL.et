@@ -1,0 +1,22 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{6254F50E52773D0B}" {
+    m_bRandomizeDefaultVariant 0
+    m_aVariants {
+     SCR_EditableEntityVariant "{62535E06C5132680}" {
+      m_sVariantPrefab "{882498E3F16EC1AB}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_AK74.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E06C5132682}" {
+      m_sVariantPrefab "{2D519F84385B4C17}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_M14.et"
+     }
+     SCR_EditableEntityVariant "{625431D6D53BD521}" {
+      m_sVariantPrefab "{5BBC1C18AB931AF6}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_AK74_GP25.et"
+     }
+    }
+   }
+  }
+ }
+}

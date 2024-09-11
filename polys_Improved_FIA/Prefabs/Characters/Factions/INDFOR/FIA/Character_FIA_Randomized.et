@@ -1,0 +1,135 @@
+SCR_ChimeraCharacter : "{DE3786C0C6C978D4}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_BaseLoadout.et" {
+ ID "520EC961A090B1EE"
+ components {
+  SCR_EditableCharacterComponent "{520EA1D2F659C85C}" {
+   m_VariantData SCR_EditableEntityVariantData "{60F6DBAA196151FD}" {
+    m_aVariants {
+     SCR_EditableEntityVariant "{60F6DBAA18241624}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA18193D3E}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA180B438E}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA18FE69E3}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA18EEDF36}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA18C30F94}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA2FD1F6C0}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA2D63151A}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{60F6DBAA578EAA17}" {
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E04C9CA4B49}" {
+      m_sVariantPrefab "{2A7CC7EF7F219539}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AK74.et"
+      m_iRandomizerWeight 3
+     }
+     SCR_EditableEntityVariant "{62535E04FB040B2F}" {
+      m_sVariantPrefab "{7188A43E30951DAF}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AK74_GP25.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04FB3ED979}" {
+      m_sVariantPrefab "{207E7C7EF0F79057}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AP67.et"
+     }
+     SCR_EditableEntityVariant "{62535E04FB51EA8C}" {
+      m_sVariantPrefab "{0C986634F000F4AC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_AR15.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04FB6E9CB3}" {
+      m_sVariantPrefab "{25DFCAE053F50F6D}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_EVR76.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04FB84DB0A}" {
+      m_sVariantPrefab "{04D23F40DA962A51}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_M14.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04FB9D13F6}" {
+      m_sVariantPrefab "{A47D13DAB32D73E6}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_M1A.et"
+      m_iRandomizerWeight 3
+     }
+     SCR_EditableEntityVariant "{62535E04FBB55CCF}" {
+      m_sVariantPrefab "{2B6CC1C158FCA467}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_PKM.et"
+     }
+     SCR_EditableEntityVariant "{62535E04FBC3E50B}" {
+      m_sVariantPrefab "{4240CFD7A5785BB8}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_PKM_Ammo.et"
+     }
+     SCR_EditableEntityVariant "{62535E04FBDB81AD}" {
+      m_sVariantPrefab "{7844C62EAF09D507}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_R107M.et"
+     }
+     SCR_EditableEntityVariant "{62535E04FBF61B23}" {
+      m_sVariantPrefab "{56A4F3BE589AA00F}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_RF10.et"
+      m_bEnabled 0
+     }
+     SCR_EditableEntityVariant "{62535E04F4095817}" {
+      m_sVariantPrefab "{98119D6E31355696}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_RPG7V1.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F42603EE}" {
+      m_sVariantPrefab "{298E4B05E6EA6FDE}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_RPG7V1_Ammo.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F43CBAAD}" {
+      m_sVariantPrefab "{5EE7C65505D7535E}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Guerilla_RPK74.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F4544C9B}" {
+      m_sVariantPrefab "{882498E3F16EC1AB}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_AK74.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04F46CDC0F}" {
+      m_sVariantPrefab "{2D519F84385B4C17}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_M14.et"
+     }
+     SCR_EditableEntityVariant "{6254F508381B44A6}" {
+      m_sVariantPrefab "{5BBC1C18AB931AF6}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Leader_AK74_GP25.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F4863A77}" {
+      m_sVariantPrefab "{FF475E60734A6BB6}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Mechanic_EVR76.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F49EEA21}" {
+      m_sVariantPrefab "{62222021E3E57BB9}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Medic_AK74.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F4B1D79F}" {
+      m_sVariantPrefab "{BC32D1743CC39D8E}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Officer_AKS74U.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F4CEF5E7}" {
+      m_sVariantPrefab "{77701C5FB4DC9067}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sapper_TM62M.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F4E6CEFB}" {
+      m_sVariantPrefab "{52150A8A75A23A79}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sapper_TSh400g.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F4FFAECB}" {
+      m_sVariantPrefab "{01B845C156043E39}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_AK74.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04F5142810}" {
+      m_sVariantPrefab "{124155B36AA089CB}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_AR15.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F52C0809}" {
+      m_sVariantPrefab "{A8B096B522C1148E}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_M1A.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F5461071}" {
+      m_sVariantPrefab "{407436E0A63AFD6E}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Scout_RF10.et"
+     }
+     SCR_EditableEntityVariant "{62535E07B30D88DB}" {
+      m_sVariantPrefab "{E2B95A992F977DD1}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_M21.et"
+     }
+     SCR_EditableEntityVariant "{62535E04F58B6BB9}" {
+      m_sVariantPrefab "{4206CE286F2A75BC}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr.et"
+      m_iRandomizerWeight 2
+     }
+     SCR_EditableEntityVariant "{62535E04F5A330E2}" {
+      m_sVariantPrefab "{3325BAE847C2D466}Prefabs/Characters/Factions/INDFOR/Uniformed-FIA/Sniper_Tigr_308.et"
+     }
+    }
+   }
+  }
+ }
+}
