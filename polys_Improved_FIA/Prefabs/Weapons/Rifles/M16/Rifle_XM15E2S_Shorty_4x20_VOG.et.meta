@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{A3A16AB514443600}Prefabs/Weapons/Rifles/M16/Rifle_XM15E2S_Shorty_4x20_VOG.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

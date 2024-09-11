@@ -1,0 +1,27 @@
+GenericEntity : "{1355F8F0C554384C}Prefabs/Weapons/Rifles/M16/Rifle_XM15E2S_Shorty_4x20.et" {
+ ID "CFBAA4B725411E45"
+ components {
+  SCR_WeaponAttachmentsStorageComponent "{51F080D5CE45A1A2}" {
+   Attributes SCR_ItemAttributeCollection "{51F080D5C64F12C5}" {
+    ItemDisplayName WeaponUIInfo "{5222CB07CFF6712A}" {
+     Name "XM-15 (M203 VOG)"
+     Description "Well, for some reason, you've decided that you want to take your perfectly good M203 and load Soviet UGL rounds into it. I'm not going to stop you, but that doesn't mean it's a good idea..."
+    }
+   }
+  }
+  WeaponComponent "{CFBAA4B706BA66E8}" {
+   components {
+    AttachmentSlotComponent "{6226F3A8A394CDF0}" {
+     AttachmentSlot InventoryStorageSlot BayonetSlot {
+      Offset 0 0 -0.0226
+      Prefab "{F964453C481C4538}Prefabs/Weapons/Attachments/Underbarrel/UGL_M203_short_vog.et"
+     }
+    }
+    AttachmentSlotComponent "{6226F3A8A394CDF5}" {
+     AttachmentSlot InventoryStorageSlot Handguard {
+     }
+    }
+   }
+  }
+ }
+}

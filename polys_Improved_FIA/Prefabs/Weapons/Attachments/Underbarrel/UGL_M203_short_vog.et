@@ -1,0 +1,37 @@
+GameEntity : "{6CF51730E80CCF42}Prefabs/Weapons/Attachments/Underbarrel/UGL_M203_base.et" {
+ ID "50D6D3D8D7C645EE"
+ components {
+  MeshObject "{BB6A64F1D169741D}" {
+   Object "{A9B6BE9163F8531D}Assets/Weapons/Attachments/Underbarrel/M203/M203_carbine.xob"
+   Materials {
+    MaterialAssignClass "{625431DB205C2731}" {
+     SourceMaterial "M203_carbine"
+     AssignedMaterial "{0C086415C34573F2}Assets/Weapons/Attachments/Underbarrel/M203/Data/M203_carbine_OliveGreen_Sand_Stripes.emat"
+    }
+   }
+  }
+  MuzzleInMagComponent "{B3A264F493CC5A18}" {
+   MagazineWell MagazineWellRU_GP "{4F72A6CBAFE19FCA}" {
+   }
+   BulletInitSpeedCoef 0.782
+   DispersionRange 7
+   UIInfo MuzzleUIInfo "{560CE8B7320CE1C1}" {
+    m_MagIndicator SCR_MagazineIndicatorConfiguration "{5660B14FCBE3A8CC}" {
+     m_sOutline "grenade-gl-vog25"
+    }
+   }
+   ProjectilePosition InventoryStorageSlot "{517A8378FD27B41A}" {
+    Offset 0 0 0.0271
+   }
+   AmmoTemplate "{262F0D09C4130826}Prefabs/Weapons/Ammo/Ammo_Grenade_HE_VOG25.et"
+  }
+  SCR_WeaponAttachmentsStorageComponent "{5DC887846E6A8A75}" {
+   Attributes SCR_ItemAttributeCollection "{5DC887846E6A8A74}" {
+    ItemDisplayName WeaponUIInfo "{5DC887846E6A8A77}" {
+     Name "M203 (VOG-25)"
+     Description "For some reason, you managed to figure out that Soviet GL rounds will fit in an American grenade launcher. Good luck."
+    }
+   }
+  }
+ }
+}
