@@ -1,0 +1,22 @@
+GameProject {
+ ID "polysImprovedFIA"
+ GUID "62289E8A55FDB258"
+ TITLE "polys_Improved_FIA"
+ Dependencies {
+  "58D0FB3206B6F859" "62264496494D0FC8"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}
