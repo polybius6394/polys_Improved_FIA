@@ -1,8 +1,0 @@
-GameProject {
- ID "polysImprovedFIAAutumn"
- GUID "6220988449C829B6"
- TITLE "polys_Improved_FIA_Autumn"
- Dependencies {
-  "58D0FB3206B6F859"
- }
-}
