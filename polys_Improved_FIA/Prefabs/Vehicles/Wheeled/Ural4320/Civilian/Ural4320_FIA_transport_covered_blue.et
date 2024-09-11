@@ -1,0 +1,58 @@
+Vehicle : "{D9B91FAB817A6033}Prefabs/Vehicles/Wheeled/Ural4320/Ural4320_transport_covered.et" {
+ ID "BBCBA43A9778AE21"
+ components {
+  MeshObject "{51DAA09FEFBFC0E7}" {
+   Materials {
+    MaterialAssignClass "{625726941DA0E6AB}" {
+     SourceMaterial "Ural_Body"
+     AssignedMaterial "{05922B5C28D0D2E6}Assets/Vehicles/Wheeled/Ural4320/Data/Ural_4320_Body_CIV_Blue.emat"
+    }
+    MaterialAssignClass "{625726941DA0E6B1}" {
+     SourceMaterial "Ural_Details"
+     AssignedMaterial "{741DB2633AB7E02F}Assets/Vehicles/Wheeled/Ural4320/Data/Ural_4320_Details.emat"
+    }
+   }
+  }
+  SCR_BaseCompartmentManagerComponent "{20FB66C5DCB8DF72}" {
+   CompartmentSlots {
+    PilotCompartmentSlot PilotCompartment {
+     m_DefaultOccupantData SCR_DefaultOccupantData "{62572697BB708584}" {
+      m_sDefaultOccupantPrefab "{84B40583F4D1B7A3}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman.et"
+     }
+    }
+    CargoCompartmentSlot Passenger_r01 {
+     m_DefaultOccupantData SCR_DefaultOccupantData "{59BA9CCC7AFDE010}" {
+      m_sDefaultOccupantPrefab "{84B40583F4D1B7A3}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman.et"
+     }
+    }
+    CargoCompartmentSlot Passenger_m01 {
+     m_DefaultOccupantData SCR_DefaultOccupantData "{59BA9CCC78C46847}" {
+      m_sDefaultOccupantPrefab "{84B40583F4D1B7A3}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_Rifleman.et"
+     }
+    }
+   }
+  }
+  SCR_EditableVehicleComponent "{50DEB7C26B5EB312}" {
+   m_UIInfo SCR_EditableVehicleUIInfo "{5298E609432D192D}" {
+    m_Image "{BD39EE9C8B85294D}UI/Textures/EditorPreviews/Vehicles/Wheeled/Ural4320/Ural4320_FIA_transport_covered.edds"
+    m_sFaction "FIA"
+    m_aAutoLabels {
+     12 122 54
+    }
+   }
+  }
+  SCR_VehicleFactionAffiliationComponent "{5882CBD9AC741CEC}" {
+   "faction affiliation" "FIA"
+  }
+  SCR_WheeledDamageManagerComponent "{141326E9FD94FE40}" {
+   m_fVehicleDestroyDamage 14217.9
+  }
+  SlotManagerComponent "{55BCE45E438E4CFF}" {
+   Slots {
+    RegisteringComponentSlotInfo Cargo {
+     DisablePhysicsInteraction 1
+    }
+   }
+  }
+ }
+}

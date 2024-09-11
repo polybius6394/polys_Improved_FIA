@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B8523A6957C741E7}Prefabs/Vehicles/Wheeled/Ural4320/Painted/Ural4320_FIA_transport_covered_half.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass PS5 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
