@@ -1,22 +1,7 @@
 # polys_Improved_FIA
 An Arma Reforger mod that improves the FIA with some new equipment.
 
-There are two versions here, summer and autumn, that you should choose between. These cannot be run at the same time, since this is a replacement instead of an addition.
-
-Summer version: https://reforger.armaplatform.com/workshop/6220953A5B89C919-polys_Improved_FIA_Summer
-
-Autumn version: https://reforger.armaplatform.com/workshop/6220988449C829B6-polys_Improved_FIA_Autumn
-
-For the most part, they're the same, but there are some uniform and headgear changes depending on which you choose. Summer has lighter uniforms and headgear, while autumn's is heavier.
-
-The main changes are;
-- Arsenal overhauled with new equipment selection & some civilian clothing.
-- Sa vz. 58 replaced with M14 (M21 SWS) or AK-74, depending on the role.
-- UK vz. 59 replaced with PKM.
-- ALICE or Lifchik webbing added to all units, depending on their weapon.
-- Squad Leaders equipped with GP-25 grenade launchers, due to the lack of a proper grenadier role.
-- Removal of radios for some units.
-- Removal of flak jackets for all units.
+Remind me to write this part.
 
 Anyhow, I made this as an excuse to screw around with the Enfusion tools, so it's nothing crazy.
  That being said, I'll try to keep this updated as more content is added to the game.
